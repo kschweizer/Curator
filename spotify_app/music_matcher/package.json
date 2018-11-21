@@ -1,0 +1,26 @@
+{
+  "name": "music_matcher",
+  "version": "1.0.0",
+  "description": "Music tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kschweizer/Curator.git"
+  },
+  "author": "Kyle Schweizer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kschweizer/Curator/issues"
+  },
+  "homepage": "https://github.com/kschweizer/Curator#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0"
+  }
+}
